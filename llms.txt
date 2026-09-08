@@ -1,0 +1,22 @@
+# llms.txt – AI Saarthi SaaS Portal
+# Source: https://mtd006.github.io/corporateaisarathi/
+# Sells ready-made Google Apps Script business systems. Customers pay, download and deploy on their own Google account.
+
+## What this is
+Online store of Google Apps Script business systems built for beginners, professionals, corporates, clients, people and societies. Lifetime licence or yearly subscription. PayPal · Razorpay · Bank Transfer.
+
+## Six system families (count to be confirmed at first deploy)
+1. Beginner Systems – invoicing, attendance, budget, study planner.
+2. Professional Systems – stock register, rent manager, bulk WhatsApp, bulk email, chatbot for website.
+3. Corporate Systems – HR consultancy, payroll, grievance redressal, employee training passbook, lead generator.
+4. Client / Society Systems – housing society management, redevelopment, gate pass, Grampanchayat ops.
+5. Trade / Logistics Systems – export shipment, import shipment, cargo loading, transport business, machine maintenance.
+6. Service / Clinic Systems – clinic, dental, beauty parlour, car service centre, after-sale service.
+
+## Customer portal
+Customer login is served by an AI Saarthi Google Apps Script Web App. The login URL is NOT published here; it is provisioned on demand per org / per licence holder.
+
+## Sister properties
+- Main consultancy: https://mtd006.github.io/aisaarthi/
+- Legal / corporate consultancy: https://mtd006.github.io/tukaramconsultancyonline/
+- Skills academy: https://mtd006.github.io/launchpadacademy/
